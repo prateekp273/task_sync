@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "695380121916",
+    "project_id": "task_sync",
+    "storage_bucket": "task_sync.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:695380121916:android:eb88a2cd6d515a0c8fa639",
+        "android_client_info": {
+          "package_name": "com.codsoft.to_do_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "695380121916-3hl26mae1ipal5gcddl85b25f24odr0i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdTVCNPyxCMh_xzkCXOH2A--x37yTywkI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "695380121916-3hl26mae1ipal5gcddl85b25f24odr0i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
